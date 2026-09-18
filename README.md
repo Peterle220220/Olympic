@@ -10,7 +10,7 @@
 
 ## Overview
 
-Built with a 7-person team as the capstone **IT Industry Project** for an Australian government-facing stakeholder, the platform has three parts:
+Built with a 6-person team as the capstone **IT Industry Project** for an Australian government-facing stakeholder, the platform has three parts:
 
 - **Visitor App** — public-facing site (events, venues, athletes, medals, tickets, transport, accessibility).
 - **Backend API** — a Go (Gin) + PostgreSQL REST API with 30+ versioned endpoints and a crowd-management algorithm.
